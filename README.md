@@ -45,3 +45,6 @@ $ npm run package-win
  - Look at console for executable file location
  - Windows might not be able to build all targets
  - Most flexible way to build is on linux/mac with wine32 installed
+
+### List of Collaborators (Team Waterfall)
+ - Daniel Kuzmin
