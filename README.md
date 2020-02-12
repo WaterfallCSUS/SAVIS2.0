@@ -48,3 +48,5 @@ $ npm run package-win
 
 ### List of Collaborators (Team Waterfall)
  - Daniel Kuzmin
+ - Muhammad Mazhar
+ - Akshar Patel
